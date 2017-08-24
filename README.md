@@ -1,0 +1,1 @@
+Simple Exercise from Free Code Camp's Backend API Projects
